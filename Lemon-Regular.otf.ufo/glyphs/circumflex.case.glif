@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex.case" format="1">
+  <advance width="602"/>
+  <outline>
+    <contour>
+      <point x="137" y="744" type="curve" name="hr00"/>
+      <point x="170" y="744"/>
+      <point x="208" y="747"/>
+      <point x="249" y="756" type="curve"/>
+      <point x="249" y="804"/>
+      <point x="274" y="863"/>
+      <point x="309" y="906" type="curve"/>
+      <point x="335" y="906" type="line"/>
+      <point x="332" y="878" smooth="yes"/>
+      <point x="328" y="850" smooth="yes"/>
+      <point x="328" y="826" type="curve" smooth="yes"/>
+      <point x="328" y="778" smooth="yes"/>
+      <point x="345" y="744" smooth="yes"/>
+      <point x="424" y="744" type="curve" smooth="yes"/>
+      <point x="449" y="744"/>
+      <point x="472" y="746"/>
+      <point x="495" y="752" type="curve"/>
+      <point x="487" y="766" smooth="yes"/>
+      <point x="481" y="785" smooth="yes"/>
+      <point x="481" y="808" type="curve" smooth="yes"/>
+      <point x="481" y="852" smooth="yes"/>
+      <point x="491" y="884" smooth="yes"/>
+      <point x="491" y="931" type="curve" smooth="yes"/>
+      <point x="491" y="958" smooth="yes"/>
+      <point x="436" y="968" smooth="yes"/>
+      <point x="374" y="968" type="curve" smooth="yes"/>
+      <point x="305" y="968"/>
+      <point x="227" y="956"/>
+      <point x="204" y="943" type="curve"/>
+      <point x="168" y="903" smooth="yes"/>
+      <point x="80" y="802" smooth="yes"/>
+      <point x="80" y="763" type="curve" smooth="yes"/>
+      <point x="80" y="752" smooth="yes"/>
+      <point x="95" y="744" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="765" width="-21" />
+      <hstem pos="968" width="-20" />
+      <vstem pos="328" width="153" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="733"/>
+  <unicode hex="0023"/>
+  <outline>
+    <component  base="slash" yOffset="-18"/>
+    <component  base="slash" xOffset="314" yOffset="-18"/>
+    <component  base="underscore" xOffset="43" yOffset="624"/>
+    <component  base="underscore" xOffset="-33" yOffset="322"/>
+  </outline>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="1">
+  <advance width="674"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="-20" y="82" type="curve" smooth="yes"/>
+      <point x="-20" y="19" smooth="yes"/>
+      <point x="23" y="-20" smooth="yes"/>
+      <point x="87" y="-20" type="curve" smooth="yes"/>
+      <point x="126" y="-20"/>
+      <point x="175" y="0"/>
+      <point x="220" y="54" type="curve"/>
+      <point x="310" y="-3" smooth="yes"/>
+      <point x="397" y="-25" smooth="yes"/>
+      <point x="480" y="-25" type="curve" smooth="yes" name="hr01"/>
+      <point x="567" y="-25" smooth="yes"/>
+      <point x="639" y="28" smooth="yes"/>
+      <point x="639" y="152" type="curve" smooth="yes"/>
+      <point x="639" y="178"/>
+      <point x="637" y="204"/>
+      <point x="631" y="231" type="curve"/>
+      <point x="510" y="176" type="line"/>
+      <point x="334" y="195" type="line"/>
+      <point x="590" y="515" type="line"/>
+      <point x="640" y="538" smooth="yes"/>
+      <point x="674" y="572" smooth="yes"/>
+      <point x="674" y="622" type="curve" smooth="yes"/>
+      <point x="674" y="676" smooth="yes"/>
+      <point x="640" y="724" smooth="yes"/>
+      <point x="574" y="724" type="curve" smooth="yes"/>
+      <point x="531" y="724"/>
+      <point x="491" y="703"/>
+      <point x="462" y="653" type="curve"/>
+      <point x="401" y="653"/>
+      <point x="185" y="678"/>
+      <point x="79" y="721" type="curve"/>
+      <point x="72" y="688" smooth="yes"/>
+      <point x="69" y="658" smooth="yes"/>
+      <point x="69" y="636" type="curve" smooth="yes"/>
+      <point x="69" y="522"/>
+      <point x="175" y="477"/>
+      <point x="317" y="473" type="curve"/>
+      <point x="125" y="217" type="line"/>
+      <point x="28" y="217" smooth="yes"/>
+      <point x="-20" y="146" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr01">
+      <hstem pos="-4" width="-21" />
+      <hstem pos="724" width="-20" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
